@@ -5,4 +5,4 @@
 
 - 📫 How to reach me: **meghachandrareddy@gmail.com**
 
-- 📄 Want to know about my experiences: [linkedin](www.linkedin.com/in/meghachandra)
+- 📄 Want to know about my experiences: [linkedin](https://www.linkedin.com/in/meghachandra/)
