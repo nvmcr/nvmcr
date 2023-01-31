@@ -9,3 +9,6 @@ I am a master's student in Electrical and Computer Engineering with a focus on D
 - 📫 How to reach me: **meghachandrareddy@gmail.com**
 
 - 📄 Want to know about my experiences: [linkedin](https://www.linkedin.com/in/meghachandra/)
+
+My contributions:  
+![Contributions](https://github.com/nvmcr/nvmcr/blob/output/github-contribution-grid-snake.gif)
