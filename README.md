@@ -1,4 +1,4 @@
-<img src="background.jfif" width="45"/> 
+<img src="background.jfif" width="100"/>
 # Hello👋
 ## I am Megha Chandra Nandyala <img src="spidertocat.png" width="45" height="45"/>  
 
