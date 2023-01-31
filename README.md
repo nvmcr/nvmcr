@@ -1,7 +1,7 @@
 # Hello👋, I am Megha Chandra Nandyala <img src="spidertocat.png" width="50"/>
 ## I am a master's student in Electrical and Computer Engineering with a focus on Data Science at the University of Washington
 
-- <img src="code.gif" width="50"/> All of my projects are available at [My_Portfolio](https://github.com/nvmcr/My_Portfolio)
+- <img src="coding.gif" width="100"/> All of my projects are available at [My_Portfolio](https://github.com/nvmcr/My_Portfolio)
 
 - 📫 How to reach me: **meghachandrareddy@gmail.com**
 
