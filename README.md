@@ -1,4 +1,4 @@
-# Hello👋, I am Megha Chandra Nandyala![](spidertocat.png)
+# Hello👋, I am Megha Chandra Nandyala <img src="spidertocat.png" width="200"/>
 ## I am a master's student in Electrical and Computer Engineering with a focus on Data Science at the University of Washington
 
 - 👨‍💻 All of my projects are available at [My_Portfolio](https://github.com/nvmcr/My_Portfolio)
