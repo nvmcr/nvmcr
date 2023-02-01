@@ -1,6 +1,6 @@
 ![](background.jfif)
 ## Hello👋
-## I am Megha Chandra Nandyala <img src="spidertocat.png" width="45" height="45"/>  
+### I am Megha Chandra Nandyala <img src="spidertocat.png" width="45" height="45"/>  
 
 I am a master's student in Electrical and Computer Engineering with a focus on Data Science at the University of Washington.
 
