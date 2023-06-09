@@ -11,7 +11,7 @@
 
   I am a master's student in Electrical and Computer Engineering with a focus on Data Science at the University of Washington.
 
-- <img src="typing.gif" width="20"/> My Personal Website: [Portfolio](https://nvmcr.github.io/)
+- <img src="typing.gif" width="20"/> My Personal Website: [**Portfolio**](https://nvmcr.github.io/)
 
 - 📫 How to reach me: **meghachandrareddy@gmail.com**
 
