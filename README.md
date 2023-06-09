@@ -15,4 +15,4 @@
 
 - 📫 How to reach me: **meghachandrareddy@gmail.com**
 
-- 📄 Let's Connect: [linkedin](https://www.linkedin.com/in/meghachandra/)
+- 📄 Let's Connect: [**linkedin**](https://www.linkedin.com/in/meghachandra/)
